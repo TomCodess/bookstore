@@ -1,2 +1,2 @@
 # bookstore
-Use node app.js to run
+Use **node app.js** to run
